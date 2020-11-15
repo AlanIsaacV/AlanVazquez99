@@ -62,32 +62,37 @@ ___
 <summary> Funny statistics </summary> -->
 
 ### 📊 Funny statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVazquez99&repo=github-readme-stats&theme=vue-dark&hide_border=true&langs_count=10"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVazquez99&repo=github-readme-stats&theme=vue-dark&hide_border=true&langs_count=10"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlanVazquez&theme=vue-dark&hide_border=true"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanVazquez99&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlanVazquez&theme=vue-dark&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanVazquez99&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&include_all_commits=true"/>
+</p>``
 
 <!-- </details> -->
+
 <br>
 
 ___
 
 <br>
+
 <!-- <details>
 <summary> My favorite repositories </summary> -->
 
 ### 🌟 My favorite repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=dotfiles&theme=vue-dark&hide_border=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=dotfiles&theme=vue-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=file-manager&theme=vue-dark&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=Python-Android-Debug-Bridge-ADB&theme=vue-dark&hide_border=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=file-manager&theme=vue-dark&hide_border=true"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=Python-Android-Debug-Bridge-ADB&theme=vue-dark&hide_border=true"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=colab-vscode&theme=vue-dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=colab-vscode&theme=vue-dark&hide_border=true"/>
+</p>
 <!-- </details> -->
 
 <!--
