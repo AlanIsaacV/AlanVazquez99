@@ -2,7 +2,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/AlanVazquez99"><img src="statics/icons/github.svg" width=48></a>
-  <href="https://mailhide.io/e/0CtHgMWm" onclick="popup=window.open('https://mailhide.io/e/0CtHgMWm','mailhidepopup','width=580,height=635'); return false;"><img src="statics/icons/gmail.svg" width=48></a>
+  <a href="https://mailhide.io/e/0CtHgMWm" onclick="popup=window.open('https://mailhide.io/e/0CtHgMWm','mailhidepopup','width=580,height=635'); return false;"><img src="statics/icons/gmail.svg" width=48></a>
   <a target="_blank" href="https://www.linkedin.com/in/alan-isaac-vazquez/"><img src="statics/icons/linkedin.svg" width=48></a>
   <a target="_blank" href="https://twitter.com/AlanVazquezP"><img src="statics/icons/twitter.svg" width=48></a>
 </p>
