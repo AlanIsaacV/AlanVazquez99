@@ -1,10 +1,21 @@
 ![gif_presentation](statics/presentation.gif)
 
 <p align="center">
-  <a target="_blank" href="https://github.com/AlanVazquez99"><img src="statics/icons/github.svg" width=48></a>
-  <a href="https://mailhide.io/e/0CtHgMWm" onclick="popup=window.open('https://mailhide.io/e/0CtHgMWm','mailhidepopup','width=580,height=635'); return false;"><img src="statics/icons/gmail.svg" width=48></a>
-  <a target="_blank" href="https://www.linkedin.com/in/alan-isaac-vazquez/"><img src="statics/icons/linkedin.svg" width=48></a>
-  <a target="_blank" href="https://twitter.com/AlanVazquezP"><img src="statics/icons/twitter.svg" width=48></a>
+  <a target="_blank" href="https://github.com/AlanVazquez99">
+    <img src="statics/icons/github.svg" width=48>
+  </a>
+
+  <a target="_blank" href="https://mailhide.io/e/0CtHgMWm">
+    <img src="statics/icons/gmail.svg" width=48>
+  </a>  
+
+  <a target="_blank" href="https://www.linkedin.com/in/alan-isaac-vazquez/">
+    <img src="statics/icons/linkedin.svg" width=48>
+  </a>
+
+  <a target="_blank" href="https://twitter.com/AlanVazquezP">
+    <img src="statics/icons/twitter.svg" width=48>
+  </a>
 </p>
 
 ## Hi there 👋
@@ -23,6 +34,7 @@ ___
 <p align="center">
   <img src="statics/icons/python.svg" width=48 />
 </p>
+
 <p align="center">
   <img src="statics/icons/docker.svg" width=48>
   <img src="statics/icons/aws.svg" width=48>
@@ -64,9 +76,9 @@ ___
 ### 📊 Funny statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVazquez99&repo=github-readme-stats&theme=vue-dark&hide_border=true&langs_count=10"/>
-
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlanVazquez&theme=vue-dark&hide_border=true"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanVazquez99&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&include_all_commits=true"/>
 </p>``
@@ -84,14 +96,23 @@ ___
 
 ### 🌟 My favorite repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=dotfiles&theme=vue-dark&hide_border=true"/>
+  <a target="_blank" href="https://github.com/AlanVazquez99/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=dotfiles&theme=vue-dark&hide_border=true"/>
+  </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=file-manager&theme=vue-dark&hide_border=true"/>
+  <a target="_blank" href="https://github.com/AlanVazquez99/file-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=file-manager&theme=vue-dark&hide_border=true"/>
+  </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=Python-Android-Debug-Bridge-ADB&theme=vue-dark&hide_border=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=colab-vscode&theme=vue-dark&hide_border=true"/>
+<p align="center">
+  <a target="_blank" href="https://github.com/AlanVazquez99/Python-Android-Debug-Bridge-ADB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=Python-Android-Debug-Bridge-ADB&theme=vue-dark&hide_border=true"/>
+  </a>
+
+  <a target="_blank" href="https://github.com/AlanVazquez99/colab-vscode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlanVazquez99&repo=colab-vscode&theme=vue-dark&hide_border=true"/>
+  </a>
 </p>
 <!-- </details> -->
 
