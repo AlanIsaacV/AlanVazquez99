@@ -75,7 +75,7 @@ ___
 
 ### 📊 Funny statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVazquez99&repo=github-readme-stats&theme=vue-dark&hide_border=true&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVazquez99&repo=github-readme-stats&theme=vue-dark&hide_border=true&langs_count=10&hide=jupyter%20notebook"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlanVazquez&theme=vue-dark&hide_border=true"/>
 </p>
 
